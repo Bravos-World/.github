@@ -25,9 +25,9 @@ Hey there! 👋 I'm the solo founder and maintainer of **Bravos-World** - my per
 ## 🛠️ Tech Stack & Interests
 
 ```text
-⚡ Languages    → [Your favorite languages here]
-🎨 Frameworks   → [Your frameworks here]
-☁️  Cloud       → [Your cloud platforms here]
+⚡ Languages    → [JavaScript, Python, Go, etc.]
+🎨 Frameworks   → [React, Node.js, Django, etc.]
+☁️  Cloud       → [AWS, Azure, GCP, etc.]
 🔧 Tools        → Git, Docker, VS Code, and more
 ```
 
@@ -50,9 +50,9 @@ Check out my pinned repositories below to see what I'm most proud of! Each proje
 I'm always excited to connect with fellow developers, creators, and tech enthusiasts. Feel free to reach out!
 
 - 💼 **GitHub**: [@Bravos-World](https://github.com/Bravos-World)
-- 📧 **Email**: [Your email here]
+- 📧 **Email**: [your.email@domain.com]
 - 🐦 **Twitter**: [@Bravos-World](https://twitter.com/Bravos-World)
-- 💬 **Discord**: [Your handle here]
+- 💬 **Discord**: [YourHandle#1234]
 
 ---
 
